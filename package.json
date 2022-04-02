@@ -9,7 +9,9 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "prettier": "^2.6.1"
+  },
   "dependencies": {
     "strapi": "3.6.9",
     "strapi-admin": "3.6.9",
